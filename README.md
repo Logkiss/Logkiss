@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
  
-<img align="right" alt="img" src="https://cdna.artstation.com/p/assets/images/images/056/201/376/medium/erki-schotter-videogame-concept-low.jpg?1668684021" width="50%" height="auto" />
+<img align="right" alt="img" src="https://cdnb.artstation.com/p/assets/images/images/037/905/653/medium/phazed-cryptocat-copy-smal.jpg?1621618033" width="50%" height="auto" />
 
  
 #### :computer: Programming languages and tools: 
@@ -22,5 +22,4 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
- 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+
