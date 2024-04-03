@@ -1,8 +1,3 @@
-
-[![Github](https://github.com/Logkiss)
-[![Linkedin](https://github.com/Logkiss)
-[![Gmail](https://github.com/Logkiss)
- 
 <img align="right" alt="img" src="https://cdnb.artstation.com/p/assets/images/images/037/905/653/medium/phazed-cryptocat-copy-smal.jpg?1621618033" width="50%" height="auto" />
 
  
